@@ -4,6 +4,13 @@
     padding: .2em;
 }
 
+.container.grid {
+    width: 50%;
+}
+
+.container.list {
+    width: 100%;
+}
 
 .video {
     width: 100%;
@@ -21,7 +28,7 @@
 }
 
 .thumbnail {
-    width:40%;
+    width: 40%;
     height: 100%;
 }
 
